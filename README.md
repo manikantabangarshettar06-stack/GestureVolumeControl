@@ -71,11 +71,11 @@ iv.Gaming and AR/VR systems
 
 **Project Structure**
 
-gesture-volume-control/
-│── main.py/
-│── requirements.txt/
-│── README.md/
-│── assets/
+gesture-volume-control//
+│── main.py//
+│── requirements.txt//
+│── README.md//
+│── assets//
 │── utils
 
 **Acknowledgements**
