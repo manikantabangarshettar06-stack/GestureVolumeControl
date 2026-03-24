@@ -34,12 +34,12 @@ vi.Basic Signal Processing (FFT)
 
 **Installation**
 
-**Prerequisites*\
+*Prerequisites*
 
 i.Python 3.7 or above\
 ii.pip installed
 
-**Install Required Libraries*\
+*Install Required Libraries*
 
 Run the following command:\
 pip install opencv-python mediapipe numpy pycaw pygame
@@ -72,22 +72,22 @@ iv.Gaming and AR/VR systems
 **Project Structure**
 
 gesture-volume-control/
-│── main.py
-│── requirements.txt
-│── README.md
+│── main.py/
+│── requirements.txt/
+│── README.md/
 │── assets/
-│── utils/
+│── utils
 
 **Acknowledgements**
 
-i.MediaPipe
-ii.OpenCV
+i.MediaPipe/
+ii.OpenCV/
 iii.Python community
 
 **License**
 
 This project is open-source under the MIT License.
 
-**Demo*
+*Demo*
 
 https://drive.google.com/file/d/16IQjZlTa0QoHIeuBpR2PMWQnx5bpuTLS/view?usp=sharing
