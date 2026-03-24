@@ -6,12 +6,12 @@ This project is an example of Human-Computer Interaction (HCI), where natural ge
 
 **Features**
 
-i.Real-time hand tracking using webcam
-ii.Gesture-based volume control
-iii.Smooth and continuous volume adjustment
-iv.Noise reduction using filtering techniques
-v.Simple and intuitive interaction
-vi.Fast response with low latency
+i.Real-time hand tracking using webcam\
+ii.Gesture-based volume control\
+iii.Smooth and continuous volume adjustment\
+iv.Noise reduction using filtering techniques\
+v.Simple and intuitive interaction\
+vi.Fast response with low latency\
 
 **Technologies Used**
 
